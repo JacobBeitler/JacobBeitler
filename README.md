@@ -21,7 +21,7 @@
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Systems & Low-Level** | C++, C, POSIX System Calls, Multithreading, Memory & Buffer Management, Linux/GNU, GDB |
+| **Systems & Low-Level** | C++, C, POSIX System Calls, Multithreading, Memory & Buffer Management, Linux/GNU |
 | **GPU & Simulation** | CUDA C++, OpenGL, GLSL Shaders, Numerical & Physics Modeling |
 | **Backend, Data & Web** | Python, FastAPI, TypeScript, JavaScript, React, Next.js, Redux, Node.js, SQL (MySQL, PostgreSQL) |
 | **Build, Cloud & DevOps** | GDB, Git/GitHub, Docker, CI/CD, AWS (RDS, S3) |
